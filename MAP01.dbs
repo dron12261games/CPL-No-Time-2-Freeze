@@ -24,18 +24,18 @@ maps
 			resource1
 			{
 				type = 0;
-				location = "S:\\ABSOLUTE POWER\\Doom\\DRON12261 Projects\\CPL-No-Time-2-Freeze\\NT2F_RES_V7.wad";
+				location = "S:\\ABSOLUTE POWER\\Doom\\DRON12261 Projects\\CPL-No-Time-2-Freeze\\NT2F_RES_V8.wad";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
 				requiredarchives = "";
 			}
 		}
-		defaultfloortexture = "COMPFBLU";
-		defaultceiltexture = "STON2F00";
-		defaulttoptexture = "BASWAL05";
-		defaultwalltexture = "BASWAL05";
-		defaultbottomtexture = "BASWAL05";
+		defaultfloortexture = "FLAT20";
+		defaultceiltexture = "FLAT14";
+		defaulttoptexture = "LITE5";
+		defaultwalltexture = "LITE5";
+		defaultbottomtexture = "LITE5";
 		custombrightness = 196;
 		customfloorheight = 0;
 		customceilheight = 128;
@@ -48,9 +48,9 @@ maps
 		overrideceilheight = false;
 		overridebrightness = false;
 		uselongtexturenames = false;
-		viewpositionx = 210.2169f;
-		viewpositiony = 394.446f;
-		viewscale = 0.1275434f;
+		viewpositionx = 4092.406f;
+		viewpositiony = -987.6669f;
+		viewscale = 0.4735542f;
 		
 		grid
 		{
@@ -60,7 +60,7 @@ maps
 			backoffsety = 0;
 			backscalex = 100;
 			backscaley = 100;
-			gridsize = 256;
+			gridsize = 64;
 			gridrotate = 0;
 			gridoriginx = 0;
 			gridoriginy = 0;
