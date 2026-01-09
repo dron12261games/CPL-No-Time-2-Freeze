@@ -74,15 +74,19 @@ Additional Credits to   : Project Leads:
                           
                           Brightmaps (BRGHTMPS lump) by DeathWish
                           
-                          Project idea, main resources and map order by Track
-                          Federal
+                          Project idea, compiling main resources and map 
+                          order by Track Federal
 
-                          Project assembling and quality control by
-                          DRON12261
+                          Project assembling, quality control and development
+                          process organization by DRON12261
                           
                           DSGETPOW sound from Alien Shooter by Sigma Team
 
                           PLAYPAL and COLORMAP based on Doom PSX colors
+
+                          Winter trees from Snow Way Home & Minicharge+
+
+                          Tech Column 1 from Strife: Quest for the Sigil
                           
                           
                           
