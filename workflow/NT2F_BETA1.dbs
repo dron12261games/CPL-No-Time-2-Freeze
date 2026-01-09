@@ -1,0 +1,2659 @@
+type = "Doom Builder Map Settings Configuration";
+gameconfig = "MBF21_Doom2Doom.cfg";
+strictpatches = 0;
+
+maps
+{
+	
+	MAP01
+	{
+		defaultceiltexture = "BRICKF02";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = 4.280497f;
+		defaulttoptexture = "SUPP232B";
+		overrideceilheight = false;
+		viewpositiony = 447.6873f;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 16;
+			background = "";
+			backoffsety = 0;
+		}
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "SUPP232B";
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultfloortexture = "BRICKF02";
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultwalltexture = "SUPP232B";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 1.767893f;
+	}
+	
+	MAP02
+	{
+		defaultceiltexture = "F_SKY1";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = 700.5643f;
+		defaulttoptexture = "ICE14";
+		overrideceilheight = false;
+		viewpositiony = 1010.499f;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 128;
+			background = "";
+			backoffsety = 0;
+		}
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "ICE14";
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultfloortexture = "ICE10";
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultwalltexture = "ICE14";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 0.2608441f;
+	}
+	
+	MAP03
+	{
+		defaultceiltexture = "F_SKY1";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = -2218.701f;
+		defaulttoptexture = "SNOW04";
+		overrideceilheight = false;
+		viewpositiony = -119.1246f;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 32;
+			background = "";
+			backoffsety = 0;
+		}
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "SNOW04";
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultfloortexture = "SNOW06";
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultwalltexture = "SNOW04";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 1.262306f;
+	}
+	
+	MAP04
+	{
+		defaultceiltexture = "CEIL5_1";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = 1867.107f;
+		defaulttoptexture = "MODWALL1";
+		overrideceilheight = false;
+		viewpositiony = -316.3658f;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 64;
+			background = "";
+			backoffsety = 0;
+		}
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "MODWALL1";
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultfloortexture = "SLIME13";
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultwalltexture = "MODWALL1";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 0.548055f;
+	}
+	
+	MAP05
+	{
+		defaultceiltexture = "F_SKY1";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = 2702.166f;
+		defaulttoptexture = "SNOW04";
+		overrideceilheight = false;
+		viewpositiony = -4784.384f;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 256;
+			background = "";
+			backoffsety = 0;
+		}
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "SNOW04";
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultfloortexture = "ICE1";
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultwalltexture = "SNOW04";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 0.131632f;
+	}
+	
+	MAP06
+	{
+		defaultceiltexture = "F_SKY1";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = 2459.014f;
+		defaulttoptexture = "ICE23";
+		overrideceilheight = false;
+		viewpositiony = 7377.505f;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 64;
+			background = "";
+			backoffsety = 0;
+		}
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "ICE23";
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultfloortexture = "KCFMET4V";
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultwalltexture = "ICE23";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 0.4735584f;
+	}
+	
+	MAP10
+	{
+		defaultceiltexture = "SNOW08";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = 5510.813f;
+		defaulttoptexture = "SNOW07";
+		overrideceilheight = false;
+		viewpositiony = 6169.078f;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 256;
+			background = "";
+			backoffsety = 0;
+		}
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "SNOW07";
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultfloortexture = "ICE4";
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultwalltexture = "SNOW07";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 0.1614146f;
+	}
+	
+	MAP11
+	{
+		defaultwalltexture = "SNOWBIG2";
+		overridemiddletexture = false;
+		defaultceiltexture = "SNOW07";
+		overrideceiltexture = false;
+		custombrightness = 196;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		viewpositiony = 739.3448f;
+		viewpositionx = 957.2637f;
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		customceilheight = 128;
+		customfloorheight = 0;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 64;
+			background = "";
+			backoffsety = 0;
+		}
+		viewscale = 0.772216f;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaulttoptexture = "SNOWBIG2";
+		overridebottomtexture = false;
+		defaultbottomtexture = "SNOWBIG2";
+		defaultfloortexture = "SNOW13";
+		overrideceilheight = false;
+		overridebrightness = false;
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridefloorheight = false;
+		overridetoptexture = false;
+		uselongtexturenames = false;
+		overridefloortexture = false;
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+	}
+	
+	MAP13
+	{
+		defaultceiltexture = "F_SKY1";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = 3396.833f;
+		defaulttoptexture = "STOCIT1";
+		overrideceilheight = false;
+		viewpositiony = -32.36588f;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 4;
+			background = "";
+			backoffsety = 0;
+		}
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "STOCIT1";
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultfloortexture = "SNOW12";
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultwalltexture = "STOCIT1";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 7.396295f;
+	}
+	
+	MAP19
+	{
+		defaultwalltexture = "CAVE4";
+		overridemiddletexture = false;
+		defaultceiltexture = "F_SKY1";
+		overrideceiltexture = false;
+		custombrightness = 196;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		viewpositiony = 10734.21f;
+		viewpositionx = -49.02151f;
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		customceilheight = 128;
+		customfloorheight = 0;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 16;
+			background = "";
+			backoffsety = 0;
+		}
+		viewscale = 2.971482f;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaulttoptexture = "CAVE4";
+		overridebottomtexture = false;
+		defaultbottomtexture = "CAVE4";
+		defaultfloortexture = "GRAVEL1";
+		overrideceilheight = false;
+		overridebrightness = false;
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridefloorheight = false;
+		overridetoptexture = false;
+		uselongtexturenames = false;
+		overridefloortexture = false;
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+	}
+	
+	MAP20
+	{
+		defaultwalltexture = "SNOW05";
+		overridemiddletexture = false;
+		defaultceiltexture = "SNOW02";
+		overrideceiltexture = false;
+		custombrightness = 196;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		viewpositiony = 149.0533f;
+		viewpositionx = -806.848f;
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		customceilheight = 128;
+		customfloorheight = 0;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 32;
+			background = "";
+			backoffsety = 0;
+		}
+		viewscale = 1.124545f;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaulttoptexture = "SNOW05";
+		overridebottomtexture = false;
+		defaultbottomtexture = "SNOW05";
+		defaultfloortexture = "SNOW02";
+		overrideceilheight = false;
+		overridebrightness = false;
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridefloorheight = false;
+		overridetoptexture = false;
+		uselongtexturenames = false;
+		overridefloortexture = false;
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+	}
+	
+	MAP18
+	{
+		defaultwalltexture = "GRYFALL1";
+		overridemiddletexture = false;
+		defaultceiltexture = "F_SKY1";
+		overrideceiltexture = false;
+		custombrightness = 196;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		viewpositiony = -47.66262f;
+		viewpositionx = 622.2852f;
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		customceilheight = 128;
+		customfloorheight = 0;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 16;
+			background = "";
+			backoffsety = 0;
+		}
+		viewscale = 1.694043f;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaulttoptexture = "GRYFALL1";
+		overridebottomtexture = false;
+		defaultbottomtexture = "GRYFALL1";
+		defaultfloortexture = "SNOW11";
+		overrideceilheight = false;
+		overridebrightness = false;
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridefloorheight = false;
+		overridetoptexture = false;
+		uselongtexturenames = false;
+		overridefloortexture = false;
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+	}
+	
+	MAP21
+	{
+		defaultwalltexture = "STARTAN2";
+		overridemiddletexture = false;
+		defaultceiltexture = "F_SKY1";
+		overrideceiltexture = false;
+		custombrightness = 196;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		viewpositiony = -6012.971f;
+		viewpositionx = -6973.861f;
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		customceilheight = 128;
+		customfloorheight = 0;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 128;
+			background = "";
+			backoffsety = 0;
+		}
+		viewscale = 0.3041814f;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaulttoptexture = "STARTAN2";
+		overridebottomtexture = false;
+		defaultbottomtexture = "STARTAN2";
+		defaultfloortexture = "ICE8";
+		overrideceilheight = false;
+		overridebrightness = false;
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridefloorheight = false;
+		overridetoptexture = false;
+		uselongtexturenames = false;
+		overridefloortexture = false;
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+	}
+	
+	MAP22
+	{
+		defaultceiltexture = "F_SKY1";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = 1307.612f;
+		defaulttoptexture = "ICE4";
+		overrideceilheight = false;
+		viewpositiony = 1358.751f;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 32;
+			background = "";
+			backoffsety = 0;
+		}
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "ICE4";
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultfloortexture = "ICE2";
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultwalltexture = "ICE4";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 1.082428f;
+	}
+	
+	MAP23
+	{
+		defaultceiltexture = "F_SKY1";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = 1472.853f;
+		defaulttoptexture = "SNOW00";
+		overrideceilheight = false;
+		viewpositiony = 9893.816f;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 128;
+			background = "";
+			backoffsety = 0;
+		}
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "SNOW00";
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultfloortexture = "SNOW03";
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultwalltexture = "SNOW00";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 0.3937358f;
+	}
+	
+	MAP24
+	{
+		defaultceiltexture = "BROWN1";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = -4067.48f;
+		defaulttoptexture = "SKINBIG2";
+		overrideceilheight = false;
+		viewpositiony = 3213.504f;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 32;
+			background = "";
+			backoffsety = 0;
+		}
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "SKINBIG2";
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultfloortexture = "FLAT5_5";
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultwalltexture = "SKINBIG2";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 1.301688f;
+	}
+	
+	MAP26
+	{
+		defaultceiltexture = "SUP5XX_F";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = 740.606f;
+		defaulttoptexture = "METSUP64";
+		overrideceilheight = false;
+		viewpositiony = 4298.757f;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 64;
+			background = "";
+			backoffsety = 0;
+		}
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "METSUP64";
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultfloortexture = "FLOOR46D";
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultwalltexture = "METSUP64";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 0.7116354f;
+	}
+	
+	MAP28
+	{
+		defaultceiltexture = "PANL01";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = -2522.587f;
+		defaulttoptexture = "STUCCO4";
+		overrideceilheight = false;
+		viewpositiony = -1594.737f;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 64;
+			background = "";
+			backoffsety = 0;
+		}
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "STUCCO4";
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultfloortexture = "FLAT5_2";
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultwalltexture = "STUCCO4";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 0.4891556f;
+	}
+	
+	MAP27
+	{
+		defaultwalltexture = "BRICK_12";
+		overridemiddletexture = false;
+		defaultceiltexture = "MET";
+		overrideceiltexture = false;
+		custombrightness = 196;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		viewpositiony = 725.7309f;
+		viewpositionx = -1391.822f;
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		customceilheight = 128;
+		customfloorheight = 0;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 32;
+			background = "";
+			backoffsety = 0;
+		}
+		viewscale = 1.100016f;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaulttoptexture = "BRICK_12";
+		overridebottomtexture = false;
+		defaultbottomtexture = "BRICK_12";
+		defaultfloortexture = "BRICKF05";
+		overrideceilheight = false;
+		overridebrightness = false;
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridefloorheight = false;
+		overridetoptexture = false;
+		uselongtexturenames = false;
+		overridefloortexture = false;
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+	}
+	
+	MAP08
+	{
+		defaultwalltexture = "STARGR05";
+		overridemiddletexture = false;
+		defaultceiltexture = "F_SKY1";
+		overrideceiltexture = false;
+		custombrightness = 196;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		viewpositiony = 4282.085f;
+		viewpositionx = -2041.464f;
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		customceilheight = 128;
+		customfloorheight = 0;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 1024;
+			background = "";
+			backoffsety = 0;
+		}
+		viewscale = 0.02552637f;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaulttoptexture = "STARGR05";
+		overridebottomtexture = false;
+		defaultbottomtexture = "STARGR05";
+		defaultfloortexture = "KCF_LIT3";
+		overrideceilheight = false;
+		overridebrightness = false;
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridefloorheight = false;
+		overridetoptexture = false;
+		uselongtexturenames = false;
+		overridefloortexture = false;
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+	}
+	
+	MAP09
+	{
+		defaultceiltexture = "BRICKF04";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = -624.2467f;
+		defaulttoptexture = "BRICK_03";
+		overrideceilheight = false;
+		viewpositiony = 209.5888f;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 16;
+			background = "";
+			backoffsety = 0;
+		}
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "BRICK_03";
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultfloortexture = "KCFTIL1";
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultwalltexture = "BRICK_03";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 2.447857f;
+	}
+	
+	MAP12
+	{
+		defaultwalltexture = "BRIKMET4";
+		overridemiddletexture = false;
+		defaultceiltexture = "F_SKY1";
+		overrideceiltexture = false;
+		custombrightness = 196;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		viewpositiony = -732.5541f;
+		viewpositionx = 401.6493f;
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		customceilheight = 128;
+		customfloorheight = 0;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 128;
+			background = "";
+			backoffsety = 0;
+		}
+		viewscale = 0.3033988f;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaulttoptexture = "BRIKMET4";
+		overridebottomtexture = false;
+		defaultbottomtexture = "BRIKMET4";
+		defaultfloortexture = "ASPHALT1";
+		overrideceilheight = false;
+		overridebrightness = false;
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridefloorheight = false;
+		overridetoptexture = false;
+		uselongtexturenames = false;
+		overridefloortexture = false;
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+	}
+	
+	MAP14
+	{
+		defaultwalltexture = "WOOD8";
+		overridemiddletexture = false;
+		defaultceiltexture = "WOOD";
+		overrideceiltexture = false;
+		custombrightness = 196;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		viewpositiony = 2775.843f;
+		viewpositionx = 2015.304f;
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		customceilheight = 128;
+		customfloorheight = 0;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 256;
+			background = "";
+			backoffsety = 0;
+		}
+		viewscale = 0.1654104f;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaulttoptexture = "WOOD8";
+		overridebottomtexture = false;
+		defaultbottomtexture = "WOOD8";
+		defaultfloortexture = "FLAT5_1";
+		overrideceilheight = false;
+		overridebrightness = false;
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridefloorheight = false;
+		overridetoptexture = false;
+		uselongtexturenames = false;
+		overridefloortexture = false;
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+	}
+	
+	MAP15
+	{
+		defaultceiltexture = "STON2F00";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = 7038.795f;
+		defaulttoptexture = "BASWAL05";
+		overrideceilheight = false;
+		viewpositiony = -333.5134f;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 512;
+			background = "";
+			backoffsety = 0;
+		}
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "BASWAL05";
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultfloortexture = "COMPFBLU";
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultwalltexture = "BASWAL05";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 0.08373791f;
+	}
+	
+	MAP31
+	{
+		defaultceiltexture = "FLAT23";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = -1127.478f;
+		defaulttoptexture = "BASWAL04";
+		overrideceilheight = false;
+		viewpositiony = 679.1182f;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 128;
+			background = "";
+			backoffsety = 0;
+		}
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "BASWAL04";
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultfloortexture = "FLOOR4_8";
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultwalltexture = "BASWAL04";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 0.3124707f;
+	}
+	
+	MAP32
+	{
+		defaultceiltexture = "FLAT14";
+		overridefloorheight = false;
+		customfloorheight = 0;
+		uselongtexturenames = false;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		overrideceiltexture = false;
+		viewpositionx = -3760.06f;
+		defaulttoptexture = "BASWAL05";
+		overrideceilheight = false;
+		viewpositiony = 2909.808f;
+		overridebrightness = false;
+		overridefloortexture = false;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 128;
+			background = "";
+			backoffsety = 0;
+		}
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridebottomtexture = false;
+		defaultbottomtexture = "BASWAL05";
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultfloortexture = "FLAT14";
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaultwalltexture = "BASWAL05";
+		overridetoptexture = false;
+		customceilheight = 128;
+		overridemiddletexture = false;
+		custombrightness = 196;
+		viewscale = 0.4023424f;
+	}
+	
+	MAP17
+	{
+		defaultwalltexture = "CITY03";
+		overridemiddletexture = false;
+		defaultceiltexture = "F_SKY1";
+		overrideceiltexture = false;
+		custombrightness = 196;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		viewpositiony = 1948.128f;
+		viewpositionx = -258.3145f;
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		customceilheight = 128;
+		customfloorheight = 0;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 16;
+			background = "";
+			backoffsety = 0;
+		}
+		viewscale = 2.971515f;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaulttoptexture = "CITY03";
+		overridebottomtexture = false;
+		defaultbottomtexture = "CITY03";
+		defaultfloortexture = "SNOW12";
+		overrideceilheight = false;
+		overridebrightness = false;
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridefloorheight = false;
+		overridetoptexture = false;
+		uselongtexturenames = false;
+		overridefloortexture = false;
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+	}
+	
+	MAP25
+	{
+		defaultwalltexture = "SNOWBIG1";
+		overridemiddletexture = false;
+		defaultceiltexture = "F_SKY1";
+		overrideceiltexture = false;
+		custombrightness = 196;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		viewpositiony = 3537.167f;
+		viewpositionx = 1493.326f;
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		customceilheight = 128;
+		customfloorheight = 0;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 256;
+			background = "";
+			backoffsety = 0;
+		}
+		viewscale = 0.1128243f;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaulttoptexture = "SNOWBIG1";
+		overridebottomtexture = false;
+		defaultbottomtexture = "SNOWBIG1";
+		defaultfloortexture = "SNOW01";
+		overrideceilheight = false;
+		overridebrightness = false;
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridefloorheight = false;
+		overridetoptexture = false;
+		uselongtexturenames = false;
+		overridefloortexture = false;
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+	}
+	
+	MAP29
+	{
+		defaultwalltexture = "STARTAN1";
+		overridemiddletexture = false;
+		defaultceiltexture = "F_SKY1";
+		overrideceiltexture = false;
+		custombrightness = 196;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		viewpositiony = 160.4486f;
+		viewpositionx = 1795.383f;
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		customceilheight = 128;
+		customfloorheight = 0;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 32;
+			background = "";
+			backoffsety = 0;
+		}
+		viewscale = 1.107221f;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaulttoptexture = "STARTAN1";
+		overridebottomtexture = false;
+		defaultbottomtexture = "STARTAN1";
+		defaultfloortexture = "BRICKF11";
+		overrideceilheight = false;
+		overridebrightness = false;
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridefloorheight = false;
+		overridetoptexture = false;
+		uselongtexturenames = false;
+		overridefloortexture = false;
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+	}
+	
+	MAP30
+	{
+		defaultwalltexture = "BRICK_15";
+		overridemiddletexture = false;
+		defaultceiltexture = "MET";
+		overrideceiltexture = false;
+		custombrightness = 196;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		viewpositiony = 2887.474f;
+		viewpositionx = -273.3278f;
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		customceilheight = 128;
+		customfloorheight = 0;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 16;
+			background = "";
+			backoffsety = 0;
+		}
+		viewscale = 2.971484f;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaulttoptexture = "BRICK_15";
+		overridebottomtexture = false;
+		defaultbottomtexture = "BRICK_15";
+		defaultfloortexture = "GRAYDIA1";
+		overrideceilheight = false;
+		overridebrightness = false;
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridefloorheight = false;
+		overridetoptexture = false;
+		uselongtexturenames = false;
+		overridefloortexture = false;
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		plugins
+		{
+			
+			stairsectorbuilder
+			{
+				
+				prefabs
+				{
+					
+					prefab1
+					{
+						name = "[Previous]";
+						numberofsectors = 1;
+						outervertexmultiplier = 1;
+						innervertexmultiplier = 1;
+						stairtype = 0;
+						sectordepth = 8;
+						spacing = 0;
+						frontside = false;
+						singlesectors = true;
+						distinctsectors = false;
+						singledirection = false;
+						distinctbaseheights = true;
+						flipping = 0;
+						numberofcontrolpoints = 1;
+						applyfloormod = true;
+						floormod = 0;
+						applyceilingmod = true;
+						ceilingmod = 0;
+						applyfloortexture = false;
+						floortexture = "";
+						applyceilingtexture = false;
+						ceilingtexture = "";
+						applyuppertexture = true;
+						uppertexture = "-";
+						upperunpegged = true;
+						applymiddletexture = false;
+						middletexture = "-";
+						applylowertexture = true;
+						lowertexture = "-";
+						lowerunpegged = true;
+					}
+				}
+			}
+		}
+	}
+	
+	MAP16
+	{
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		defaultfloortexture = "FLOOR0_3";
+		defaultceiltexture = "CRATOP1";
+		defaulttoptexture = "BASWAL05";
+		defaultwalltexture = "BASWAL05";
+		defaultbottomtexture = "BASWAL05";
+		custombrightness = 196;
+		customfloorheight = 0;
+		customceilheight = 128;
+		overridefloortexture = false;
+		overrideceiltexture = false;
+		overridetoptexture = false;
+		overridemiddletexture = false;
+		overridebottomtexture = false;
+		overridefloorheight = false;
+		overrideceilheight = false;
+		overridebrightness = false;
+		uselongtexturenames = false;
+		viewpositionx = 375.8435f;
+		viewpositiony = 313.0779f;
+		viewscale = 0.8650338f;
+		
+		grid
+		{
+			background = "";
+			backsource = 0;
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			gridsize = 32;
+			gridrotate = 0;
+			gridoriginx = 0;
+			gridoriginy = 0;
+		}
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		
+		plugins
+		{
+			
+			stairsectorbuilder
+			{
+				
+				prefabs
+				{
+					
+					prefab1
+					{
+						name = "[Previous]";
+						numberofsectors = 3;
+						outervertexmultiplier = 1;
+						innervertexmultiplier = 1;
+						stairtype = 0;
+						sectordepth = 32;
+						spacing = 0;
+						frontside = false;
+						singlesectors = true;
+						distinctsectors = false;
+						singledirection = false;
+						distinctbaseheights = true;
+						flipping = 0;
+						numberofcontrolpoints = 1;
+						applyfloormod = true;
+						floormod = 0;
+						applyceilingmod = true;
+						ceilingmod = 0;
+						applyfloortexture = false;
+						floortexture = "";
+						applyceilingtexture = false;
+						ceilingtexture = "";
+						applyuppertexture = true;
+						uppertexture = "-";
+						upperunpegged = true;
+						applymiddletexture = false;
+						middletexture = "-";
+						applylowertexture = true;
+						lowertexture = "-";
+						lowerunpegged = true;
+					}
+				}
+			}
+		}
+	}
+	
+	MAP07
+	{
+		defaultwalltexture = "SNOW04";
+		overridemiddletexture = false;
+		defaultceiltexture = "F_SKY1";
+		overrideceiltexture = false;
+		custombrightness = 196;
+		
+		resources
+		{
+			
+			resource0
+			{
+				type = 0;
+				location = "E:\\ABSOLUTE POWER\\Doom\\IWADS\\DOOM2.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+				requiredarchives = "";
+			}
+		}
+		viewpositiony = 1454.778f;
+		viewpositionx = -194.2431f;
+		
+		testprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		customceilheight = 128;
+		customfloorheight = 0;
+		
+		grid
+		{
+			backoffsetx = 0;
+			backsource = 0;
+			gridoriginy = 0;
+			backscaley = 100;
+			gridrotate = 0;
+			backscalex = 100;
+			gridoriginx = 0;
+			gridsize = 64;
+			background = "";
+			backoffsety = 0;
+		}
+		viewscale = 0.492381f;
+		
+		reloadresourceprecommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		defaulttoptexture = "SNOW04";
+		overridebottomtexture = false;
+		defaultbottomtexture = "SNOW04";
+		defaultfloortexture = "SNOW03";
+		overrideceilheight = false;
+		overridebrightness = false;
+		
+		testpostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+		overridefloorheight = false;
+		overridetoptexture = false;
+		uselongtexturenames = false;
+		overridefloortexture = false;
+		
+		reloadresourcepostcommand
+		{
+			autocloseonsuccess = true;
+			exitcodeiserror = true;
+			stderriserror = true;
+		}
+	}
+}

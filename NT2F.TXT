@@ -1,0 +1,344 @@
+===========================================================================
+Advanced engine needed  : MBF21 + DSDHacked + BRGHTMPS (Woof! / Nugget Doom /
+                          Doom Retro for the best expirience)
+Primary purpose         : Single + coop play
+===========================================================================
+Title                   : No Time 2 Freeze
+Filename                : NT2F.WAD
+Release date            : 09.01.2025
+Author                  : Leaded by Track Federal and DRON12261
+Email Address           : andrejskocko@gmail.com
+Other Files By Author   : Russian Random Speedmap Pack Series, Gift For
+                          DRON12261, Who is Who, Blitz: Race Against Time
+
+Description             : No Time 2 Freeze - Community project for Doom 2
+                          powered by MBF21 compatible source ports with
+                          modified Minicharge+ mod by Tango
+                          
+                          The main feature of the megawad is a snowy/icy
+                          setting (not festive, just winter) accompanied by a
+                          variety of mostly non-MIDI soundtracks.
+                          
+                          The 32 maps range from small to gigantic, with a
+                          large number of different places to explore. This
+                          is also facilitated by an unusual gimmick: on each
+                          level, you can find a computer map power-up, which
+                          will display the approximate location of all
+                          secrets on the automap in the form of snowflake
+                          icons, encouraging you to explore. At the same
+                          time, the difficulty curve is designed for simple
+                          but enjoyable combat that won't distract you too
+                          much from the exploration process, but won't leave
+                          you without dynamic action either.
+                          
+                          This project also has co-op support thanks to
+                          Odamex 12.1.0 and Doom I + Doom || (KEX Engine).
+                          However, Odamex 12.1.0 currently has poor support 
+                          for this megawad, and it is likely that you will 
+                          need to wait for more stable versions with improved 
+                          netcode and fixed UMAPINFO and MUSINFO.
+                          
+                          Enjoy the game, because you're in for several hours
+                          of new and unusual gameplay in Doom.
+
+Additional Credits to   : Project Leads:
+                          Track Federal, Dron12261
+                          
+                          Mappers: 
+                          Track Federal, Dron12261, Ear1h, StorkGreen,
+                          Kuroji_Shit2do, Doom Wads, SashaAnikin2008,
+                          RastaManGames, Shiroi Akuma [Slavius], Carton
+                          Kobra, Chainie, Forgotten Cheese, Vexed Nemesis,
+                          Heretic926, GranitMaster, Kandy Soda [Astar], Broy,
+                          Rav2705, Krevetkosaur3027, DeathWish, Homunculus26
+                          
+                          TITLEPIC, M_DOOM, Ancient Bottle (MAP30) by Carton
+                          Kobra (Sky background on TITLEPIC by Mechadon)
+                          
+                          All HUD and menu graphics by DRON12261
+                          STATUSBAR by Waffle House Team from Snow Way Home,
+                          edited by DRON12261
+                          
+                          Texture pack - UDRP by Track Federal
+                          Detailed info inside .wad file in TEXCRDTS lump
+                          The UDRP is still under development and only 
+                          partially included in this megawad
+
+                          Additional textures from community projects from 
+                          Doom Power forum - Whitemare 1 & 2 Bloodspeed; 
+                          textures by Shadowman
+                          
+                          Resource pack - Minicharge+ by Tango
+                          Decohack edited by DRON12261 and Forgotten Cheese
+                          Detailed info inside .wad file in MINCHCRD lump
+                          
+                          Brightmaps (BRGHTMPS lump) by DeathWish
+                          
+                          Project idea, main resources and map order by Track
+                          Federal
+
+                          Project assembling and quality control by
+                          DRON12261
+                          
+                          DSGETPOW sound from Alien Shooter by Sigma Team
+
+                          PLAYPAL and COLORMAP based on Doom PSX colors
+                          
+                          
+                          
+                          -----Detailed map list-----
+                          MAP01 - "Slavic Control" by Track Federal
+                          MAP02 - "Frost Co." by Doom Wads
+                          MAP03 - "Heat Control" by Carton Kobra
+                          MAP04 - "Deluxe GESA" by Chainie
+                          MAP05 - "Snowy Village" by Sasha_Akinin2008
+                          MAP06 - "Frozen Balls" by Doom Wads
+                          MAP07 - "Below Zero" by Track Federal
+                          MAP08 - "Under Water" by Carton Kobra
+                          MAP09 - "Chill Zone" by Kandy Soda [Astar]
+                          MAP10 - "Base Infiltration During Ice Age" by
+                          DeathWish
+                          MAP11 - "Atop Thin Ice" by Kuroji_Shit2do
+                          MAP12 - "Broyscoe Street" by Broy
+                          MAP13 - "Take Me To Cold Steel" by Vexed Nemesis
+                          MAP14 - "Vis-Blocking Snow - Determination" by
+                          StorkGreen
+                          MAP15 - "Phendrana Dread" by DRON12261
+                          MAP16 - "Light! Camera! Freeze!" by DRON12261
+                          MAP17 - "Call Of Norilsk" by RastaManGames
+                          MAP18 - "Cold Steel Coffin" by Shiroi Akuma
+                          [Slavius]
+                          MAP19 - "Snowgrave" by Shiroi Akuma [Slavius]
+                          MAP20 - "Frozen Tech" by Forgotten Cheese
+                          MAP21 - "Mount Hermon's Peak" by Krevetkosaur3027
+                          MAP22 - "Igloo Boogaloo" by Heretic926
+                          MAP23 - "The Freezing Throne" by Rav2705
+                          MAP24 - "Valheim" by GranitMaster
+                          MAP25 - "Treachery" by Kuroji_Shit2do
+                          MAP26 - "Battles Of The North" by Homunculus26
+                          MAP27 - "Escape from Castle Dronstein" by Ear1h
+                          MAP28 - "Xya4y HA Da4y" by Ear1h
+                          MAP29 - "Fallen Cathedral" by Ear1h
+                          MAP30 - "Snow Pantheon" by Ear1h(all basic
+                          implementation) and DRON12261(main idea,
+                          finalization and map screen resources)
+                          MAP31 - "Lair Under Ice" by DRON12261
+                          MAP32 - "Disassembled & Thrown Out" by DRON12261
+                          
+                          
+                          
+                          -----Detailed music list-----
+                          Main Menu:
+                          "Menu Theme" by Abhineet Badyal from Alien
+                          Shooter 2
+                          Intermission Screen:
+                          "Menu theme" by Igor “Cosmodesantnik” Kovalev 
+                          from Planet Alcatraz 2
+                          MAP01:
+                          "Pyrolite" by The Swarm from Forsaken (1998)
+                          MAP02:
+                          "Hyper Ultra-Racing" by Cynicmusic
+                          MAP03:
+                          "My Iron Lung" by Radiohead, midi cover by Rppmf
+                          MAP04:
+                          "Into_deep.mod" by jurgen 'jayce'
+                          MAP05:
+                          "Adagio for Strings and Organ" by Lee Jackson from
+                          Rise of The Triad - Dark War
+                          MAP06:
+                          "Tricks & Traps - Caves" by Alexander Ehlers
+                          MAP07:
+                          "Stalker Track 01" by Markus Holler
+                          MAP08:
+                          "Under Water" by Juraj Karkus from Chaser (2003)
+                          MAP09:
+                          "Dark Ages Theme 2" from Lost Vikings 2: Norse by
+                          Norsewest OST
+                          MAP10:
+                          "Reactor" by The Swarm from Forsaken
+                          "Volcano" by The Swarm from Forsaken
+                          "Reactor (Russ Gabriel Remix)" by Russ Gabriel,
+                          original by The Swarm from Forsaken
+                          MAP11:
+                          "SUBURB (Armored green)" by Manabu Namiki from
+                          Ketsui: Kizuna Jigoku Tachi OST
+                          MAP12:
+                          "Graphic Novel Theme" by Kartsy hatakka & Kimmo
+                          Kajasto from Max Payne OST
+                          MAP13:
+                          "Ms.Valkyr" from Max Payne OST
+                          "Killer Suits" by Kartsy hatakka & Kimmo Kajasto
+                          from Max Payne OST
+                          MAP14:
+                          "INTERCEPTION" by Manabu Namiki from Ketsui: Kizuna
+                          Jigoku Tachi OST
+                          MAP15:
+                          "Hydro Station", original by Milton Guasti, a.k.a.
+                          DoctorM64 and remastered cover by qwertyGUY,
+                          original from AM2R OST
+                          MAP16:
+                          "Metroid Prime 2 Title Theme" by Kenji Yamamoto
+                          from Metroid Prime 2 OST
+                          MAP17:
+                          "Luna197" by Spiral
+                          MAP18:
+                          "Diabolical Adrenaline Guitar" by Keily Bailey from
+                          Half-Life OST
+                          MAP19:
+                          "Snow" by Gregory Semenov from A.I.M.2 Clan Wars
+                          OST
+                          MAP20:
+                          "Adrenaline Junkie" by Sonic Mayhem from Quake 2:
+                          The Reckoning (1998)
+                          MAP21:
+                          "Be Cool, Be Wild And Be Groovy" by SEGA Sound Team
+                          from Sonic Adventure DX
+                          MAP22:
+                          "Hell Freezes Over" by Alexander Brandon from Jazz
+                          Jackrabbit 2 OST
+                          MAP23:
+                          "Blight" by Glenn Stafford, Derek Duke and Tracy W.
+                          Bush from Warcraft 3: Reign of Chaos
+                          MAP24:
+                          "Pestis Cruento" by Daniel Bernstein from Blood
+                          MAP25:
+                          "Vinter" by Zaril & Xerxes
+                          MAP26:
+                          "Fight 05 (midi ver)" by Damjan Mravunac from
+                          Serious Sam: The First Encounter
+                          MAP27:
+                          "m_moving" by Bill Brown from Return To Castle
+                          Wolfenstein
+                          "m_drums" by Bill Brown from Return To Castle
+                          Wolfenstein
+                          "m_military" by Bill Brown from Return To Castle
+                          Wolfenstein
+                          MAP28:
+                          "m_stealth" by Bill Brown from Return To Castle
+                          Wolfenstein
+                          MAP29:
+                          "c_atmos" by Bill Brown from Return To Castle
+                          Wolfenstein
+                          "m_assault" by Bill Brown from Return To Castle
+                          Wolfenstein
+                          MAP30:
+                          "Ancient Power", original by Milton Guasti, a.k.a.
+                          DoctorM64 and Metroid Prime Style cover by
+                          "unknown", original from AM2R OST
+                          MAP31:
+                          "Serris Theme", original by Kenji Yamamoto and
+                          remastered cover by Kassil, original from Metroid:
+                          Fusoin OST
+                          MAP32:
+                          "wow... ok THAT's Pretty Dark" by AJ DiSpitito from
+                          Murder Drones OST
+                          "Disassembly Required" by Liam Vickers from Murder
+                          Drones OST
+                          "Cyn Sings Daisy Bell" by FitzyVA (Cyn voice actor
+                          from Murder Drones)
+                          
+===========================================================================
+* What is included *
+
+New levels              : 32
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes
+Demos                   : No
+Other                   : MUSINFO, BRGHTMPS, UMAPINFO, OPTIONS, DECOHACK
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom 2
+Map #                   : MAP01-32
+Single Player           : Designed for
+Cooperative 2-4 Player  : Designed for
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Partially, not all maps
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : 1 month
+Editor(s) used          : Ultimate Doom Builder, Slade 3, Aseprite, Audacity,
+                          Doom Tools, etc
+Known Bugs              : Eternity Engine 4.05 does not play new monster
+                          sounds (MBF21 A_PlaySound broken)
+                          GZDoom 4.14.2 and UZDoom 4.14.3 have broken
+                          DSDHacked support. For example, when you kill a
+                          chaingunner, he drops two chainguns instead of one.
+                          Odamex has broken UMAPINFO support and does not support 
+                          MUSINFO. MAP32 is also unplayable on the port in co-op 
+                          due to heavy lag and desynchronization.
+May Not Run With        : Ports without or with poor DSDHacked support
+Tested With             : Nugget Doom 4.5.0, Doom Retro 5.8.2
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License. To view a
+copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material. If you do so, you must
+give appropriate credit, provide a link to the license, and indicate if
+changes were made. You may do so in any reasonable manner, but not in any way
+that suggests the licensor endorses you or your use. You may not use the
+material for commercial purposes. If you remix, transform, or build upon the
+material, you must distribute your contributions under the same license as
+the original.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.gamers.org/pub/idgames/ and mirrors
+Web sites: https://github.com/dron12261games
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------ For mappers ------
+
+About MAP16: Light! Camera! Freeze!
+
+This level was not created just 
+to pass and forget it. It's kind of an act 
+of passing on my experience to other 
+mappers. On this map, I showed how you can 
+use special Boom actions and tricks to 
+customize incredible lighting in Doom. 
+Unfortunately I haven't seen much of this 
+in other maps, and I know that many mappers 
+don't even know about it. So I urge mappers 
+from small to large: Open this map in Doom 
+Builder and take it apart piece by piece, 
+and then you'll have a powerful new tool in 
+your pocket and some clever tricks for 
+mapping your maps already.
+(c) DRON12261
+
+-------------------------
